@@ -53,3 +53,14 @@ Theek hai, phir milte hain! Hashte rahiye!
 
 ---
  
+ 
+## 👩‍💻 Author
+
+Made with ❤️ by Shivani ( https://github.com/shivanidevi789 )
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+--- 
